@@ -69,52 +69,52 @@ The primary objectives of this analysis are:
 ### Figure 1: CO2 Emissions Over Time by Country
 This line chart illustrates the trend of CO2 emissions over time for several countries. It highlights both global and regional differences in CO2 emission patterns and the impact of industrial growth in key regions.
 
-![Figure 1](https://github.com/EdGonz44/Project-3/blob/main/images/ds1.png)
+![Figure 1](https://github.com/pixare7/Climate-change-agriculture/blob/main/images/ds1.png)
 
 ### Figure 2: Top 10 Countries by CO2 Emissions
 This bar plot presents the countries with the highest CO2 emissions, showcasing their contributions relative to the rest of the world. 
 
-![Figure 2](https://github.com/EdGonz44/Project-3/blob/main/images/ds2.png)
+![Figure 2](https://github.com/pixare7/Climate-change-agriculture/blob/main/images/ds2.png)
 
 ### Figure 3: Summary Statistics of Crop Yield
 This table summarizes the central tendencies of crop yields, such as mean, standard deviation, and range. It offers insights into the variability of crop production efficiency across different countries.
 
-<img src="https://github.com/EdGonz44/Project-3/blob/main/images/jj1.png" alt="Figure 3" width="600"/>
+<img src="https://github.com/pixare7/Climate-change-agriculture/blob/main/images/jj1.png" alt="Figure 3" width="600"/>
 
 ### Figure 4a: CO2 Emissions vs. Average Crop Yield (Global)
 This scatter plot examines the relationship between CO2 emissions and average crop yields across all countries, revealing whether higher emissions correspond to better yields.
 
-![Figure 4a](https://github.com/EdGonz44/Project-3/blob/main/images/jj2.png)
+![Figure 4a](https://github.com/pixare7/Climate-change-agriculture/blob/main/images/jj2.png)
 
 ### Figure 4b: CO2 Emissions vs. Average Crop Yield by Crop Type
 This scatter plot compares CO2 emissions with crop yields for specific crop types, allowing for analysis of how different crops may respond to environmental factors linked to emissions.
 
-![Figure 4b](https://github.com/EdGonz44/Project-3/blob/main/images/jj3.png)
+![Figure 4b](https://github.com/pixare7/Climate-change-agriculture/blob/main/images/jj3.png)
 
 ### Figure 5a: Pesticide Correlation Heatmap (Global)
 This heatmap highlights the correlation between pesticide use and various agricultural and environmental factors globally, identifying areas of significant interaction.
 
-![Figure 5a](https://github.com/EdGonz44/Project-3/blob/main/images/eg1.png)
+![Figure 5a](hhttps://github.com/pixare7/Climate-change-agriculture/blob/main/images/eg1.png)
 
 ### Figure 5b: Pesticide Correlation Heatmap (By Quartiles & Outliers)
 This heatmap further analyzes pesticide use correlations, segmented by GDP quartiles and outliers, to explore how economic factors may influence agricultural practices.
 
-![Figure 5b](https://github.com/EdGonz44/Project-3/blob/main/images/eg2.png)
+![Figure 5b](https://github.com/pixare7/Climate-change-agriculture/blob/main/images/eg2.png)
 
 ### Figure 6a: CO2 Emissions vs. Pesticide Use (Global)
 This scatter plot explores the relationship between CO2 emissions and pesticide usage on a global scale, assessing whether higher emissions correlate with increased pesticide application.
 
-![Figure 6a](https://github.com/EdGonz44/Project-3/blob/main/images/eg3.png)
+![Figure 6a](https://github.com/pixare7/Climate-change-agriculture/blob/main/images/eg3.png)
 
 ### Figure 6b: CO2 Emissions vs. Pesticide Use (By Quartiles & Outliers)
 This scatter plot compares CO2 emissions with pesticide usage, divided by GDP quartiles and outliers, to provide a more granular understanding of the relationships within different economic strata.
 
-![Figure 6b](https://github.com/EdGonz44/Project-3/blob/main/images/eg4.png)
+![Figure 6b](https://github.com/pixare7/Climate-change-agriculture/blob/main/images/eg4.png)
 
 ### Figure 7: CO2 Emissions by GDP Quartile
 This box plot visualizes CO2 emissions across GDP quartiles, offering insights into how wealth impacts environmental outputs in different economies.
 
-![Figure 7](https://github.com/EdGonz44/Project-3/blob/main/images/mo1.png)
+![Figure 7](https://github.com/pixare7/Climate-change-agriculture/blob/main/images/mo1.png)
 
 ## Interactive Dashboard
 
